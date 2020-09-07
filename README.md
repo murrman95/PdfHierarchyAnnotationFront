@@ -1,3 +1,10 @@
+# For our purposes
+
+Step 1: Launch deno server (see their README.md for details)
+
+Step 2: yarn start
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
